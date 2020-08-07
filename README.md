@@ -1,6 +1,6 @@
 ### Greetings 👋. 
 
-Here are some ideas to get you started:
+First step of info 'bout me:
 
 - 🔭 I’m currently working on ... Traction control systems for 4wheelers. 
 - 🌱 I’m currently learning ... ROS, computer-vision and UAV
